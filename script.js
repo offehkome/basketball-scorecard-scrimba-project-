@@ -21,3 +21,7 @@ function addTwoMore(){
 function addThreeMore(){
   guestScore.textContent = count += 3;
 }
+function resetBtn(){
+  homeScore.innerText = result = 0;
+  guestScore.innerText = count = 0;
+}
